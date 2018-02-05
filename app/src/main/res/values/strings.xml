@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">nuevo_ejercicio_controles</string>
+
+    <string name="seleccion"> Selecciona </string>
+    <string name="añadir"> Añadir </string>
+    <string name="opciones"> Opciones </string>
+    <string name="rucks"> Rucks </string>
+    <string name="mele"> Mele </string>
+    <string name="golpes"> Golpes de castigo </string>
+    <string name="afavor"> A favor </string>
+    <string name="encontra"> En contra </string>
+    <string name="perdidos"> Perdido </string>
+    <string name="ganada"> Ganada </string>
+    <string name="indeterminado"> Indeterminado </string>
+    <string name="recopilar"> Recopilar </string>
+    <string name="en22"> Dentro de 22 </string>
+    <string name="fuerade22"> Fuera de 22 </string>
+    <string name="Elementoseleccionado"> Elemento seleccionado </string>
+
+</resources>
